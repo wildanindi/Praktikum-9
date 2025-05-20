@@ -1,0 +1,46 @@
+.footer {
+  background-image: linear-gradient(#2d557d, #000208);
+  color: white;
+  padding: 80px 20px 40px;
+}
+
+.footer-logo {
+  width: 120px;
+  margin-bottom: 15px;
+}
+
+.footer h4 {
+  margin-bottom: 20px;
+}
+
+.footer p {
+  font-size: 14px;
+}
+
+.footer .fa {
+  margin-right: 10px;
+}
+
+.footer hr {
+  border-color: #aaa;
+  margin-top: 30px;
+}
+
+.footer .copyright {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 13px;
+}
+
+.fa-heart {
+  color: red;
+}
+
+.navbar-maroon {
+  background-color: #800000 !important;
+}
+
+body {
+  background: linear-gradient(to bottom, #000208, #1a2e40);
+  color: white;
+}
